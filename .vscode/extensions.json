@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "mellena1.eclipse-new-java-project"
+        "mellena1.eclipse-new-java-project",
+        "redhat.java",
+        "vscjava.vscode-java-debug"
     ]
 }
